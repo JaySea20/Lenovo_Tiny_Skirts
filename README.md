@@ -1,5 +1,5 @@
 ## Lenovo_Tiny_Skirts  
-#Custom Set of side skirts for mounting a Lenovo Tiny under a Voron 2 Printer  
+# Custom Set of side skirts for mounting a Lenovo Tiny under a Voron 2 Printer  
   
 Like so many have experienced, I had to find an alternative for the elusive Rpi4B.  
 Lenovo Tiny PCs are, as the title suggests, small... And CHEAP!!!  
