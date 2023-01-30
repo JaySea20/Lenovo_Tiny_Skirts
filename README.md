@@ -14,6 +14,7 @@ That nets you:
  - Optional Wifi A+E Card  
  - Internal 2.5" SATA HDD/SSD Slot  
  - At about 7 watts consumption  
+ - And it matches the Voron Styling Excellent!
   
 Plenty enough for Klipper  
   
